@@ -14,7 +14,7 @@ import edu.uno.ai.planning.ss.StateSpacePlanner;
  * This class provides an UNOFFICIAL way to test your planner from inside your
  * IDE.  Note that this IS NOT how your project will be graded.
  * 
- * @author Stephen G. Ware
+ * 
  */
 public class Test {
 
