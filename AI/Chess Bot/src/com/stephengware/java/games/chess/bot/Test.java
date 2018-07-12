@@ -13,7 +13,7 @@ import com.stephengware.java.games.chess.gui.Piece;
  * how your bot will be graded.  You must export your bot as a JAR file and
  * only that JAR file will be graded.
  * 
- * @author Stephen G. Ware
+ * 
  */
 public class Test {
 
