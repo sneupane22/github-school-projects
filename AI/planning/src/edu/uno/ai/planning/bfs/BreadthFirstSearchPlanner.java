@@ -8,7 +8,7 @@ import edu.uno.ai.planning.ss.StateSpaceSearch;
  * A simple, inefficient state-space planner that explores the search space
  * using breadth-first search.
  * 
- * @author Stephen G. Ware
+ * 
  */
 public class BreadthFirstSearchPlanner extends StateSpacePlanner 
 {
@@ -17,7 +17,7 @@ public class BreadthFirstSearchPlanner extends StateSpacePlanner
 	 */
 	public BreadthFirstSearchPlanner() 
 	{
-		super("usharma");
+		super("sneupane");
 	}
 
 	@Override
